@@ -37,6 +37,6 @@
 
 As dependências podem ser instaladas e executadas:
 
-- [x] ```bash
+```
 pip install -r requirements.txt
 ``` 
