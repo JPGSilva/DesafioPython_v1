@@ -31,12 +31,35 @@
     │
     └─── ...
 ```
-- **[08.26.2023]** 🔥🔥
+- **[08.26.2023]** 
 
-## Instalar
+ ## __Instalar__🔥
 
-As dependências podem ser instaladas e executadas:
+## Crie arquivo de requirements apenas com as bibliotecas essencais para o projeto. 
 
 ```
-pip install -r requirements.txt
-``` 
+pip install pip-chill
+```
+
+## Crie um ambiente virtual
+
+```
+$  \python3 -m venv .venv
+```
+
+## ative o ambiente correspondente
+
+```
+$ . .venv/bin/activate
+```
+
+## Se você usar pip, poderá instalar o NumPy com:
+
+```
+pip install numpy
+```
+
+
+
+
+
