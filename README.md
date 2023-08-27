@@ -7,14 +7,14 @@
 * [JOÃO PAULO](https://github.com/JPGSilva) 
 * [LINDA CRISTY](https://github.com/licristy23) 
 
-* 🧐 *: _Dado uma matriz 2D de inteiro de 8 bits, calcule o desvio padrão das respectivas linhas e a media. Some a média com o desvio padrão, tomando como picos e subtrai a media menos o desvio tomando como vale, se o valor de picos for menos que o elemnto naquela posicao, logo faz-se a substituicao, verifique se os numeros da primeira linha estao dentro desse intervalo range , se o numero for menor aplicar o range se o numero estiver dentro do intervalo utiliza_
-
+## Desafio-03.
+- [x]  Dado uma matriz 2D de inteiro de 8 bits, calcule o desvio padrão das respectivas linhas e a media. Some a média com o desvio padrão, tomando como picos e subtrai a media menos o desvio tomando como vale, se o valor de picos for menos que o elemento naquela posicao, usa-se o elemento fazendo a substituicao, se o valor do vale for maior que o elemento naquela posição, aplica-se a vale e assim respectivamento, sempre mantendo os valores dentro do range dado.
 
 ### ☕️ ☕️ ☕️ Organização do desafio da seguinte maneira: ☕️ ☕️ ☕️ 
 
 
 ```
-DesafioPython_v1
+🔥 DesafioPython_v1 🔥
 │
 └─── all_matriz
     │
@@ -31,4 +31,12 @@ DesafioPython_v1
     │
     └─── ...
 ```
+- **[08.26.2023]** 🔥🔥
 
+## Instalar
+
+As dependências podem ser instaladas e executadas:
+
+- [x] ```bash
+pip install -r requirements.txt
+``` 
